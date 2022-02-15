@@ -5,3 +5,5 @@ created.
 
 The rest of the pins are laid out to make it trivial to design plugin boards
 for my ecore and SxChipset projects.
+
+The board is designed for the AISLER PCB manufacturing service.
